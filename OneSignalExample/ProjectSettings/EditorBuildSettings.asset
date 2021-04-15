@@ -7,5 +7,5 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/OneSignal/Example/OneSignalExampleScene.unity
-    guid: 050179f3927d55941bf409edf35e9c80
+    guid: 6f0c4759ad79b4adda73c73f74923b93
   m_configObjects: {}
